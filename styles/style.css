@@ -125,3 +125,28 @@ height: 230px;
     grid-template-columns: repeat(3 , 4fr);
     gap: 30px;
 }
+.footer-container{
+    width: 483.87px;
+height: 213px;
+position: relative;
+left: 500px;
+top: 100px;
+
+
+}
+.footer-img img{
+    width: 483.87px;
+height: 110px;
+}
+.footer-icon img{
+    
+    width: 32px;
+    height: 32px;
+    position: relative;
+    left: 170px;
+    bottom: 20px;
+
+}
+.footer-container p{
+    text-align: center;
+}
